@@ -2,4 +2,8 @@
 
 A hubot script that searches Hoogle.
 
-See [purescript-hubot](https://github.com/LightAndLight/purescript-hubot) for installation instructions.
+## Installation
+
+`$ bower install && npm install`
+
+Then see [purescript-hubot](https://github.com/LightAndLight/purescript-hubot) for instructions to integrate it with hubot.
